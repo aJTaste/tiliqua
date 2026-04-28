@@ -5,28 +5,23 @@ body {
   color: white;
 }
 
-/* ヒーロー */
 .hero {
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #ff6f91, #845ec2);
   text-align: center;
 }
 
 .title {
   font-size: 4rem;
-  transform: rotate(-3deg);
 }
 
 .subtitle {
   font-size: 1.5rem;
-  transform: rotate(2deg);
 }
 
-/* セクション */
 .block {
   display: flex;
   align-items: center;
@@ -46,21 +41,12 @@ body {
 
 .text h2 {
   font-size: 3rem;
-  transform: rotate(-2deg);
 }
 
 .text p {
   font-size: 1.5rem;
 }
 
-/* 交互配置 */
 .reverse {
   flex-direction: row-reverse;
-}
-
-/* フッター */
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #222;
 }
