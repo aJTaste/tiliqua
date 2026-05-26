@@ -1,6 +1,5 @@
-exiftool
-wireshark
-xxd
-xdg-opne
-strings
-binwalk
+5-29 金曜 授業
+6-2 火曜 休講
+6-5 金曜 テスト(いつも通りの時間に)
+6-9 火曜 休講
+6-12 金曜 授業（テスト返し）
